@@ -1,5 +1,6 @@
-# 20-JavaScript-Projects
+# 20-JavaScript-Projects Using Vanilla JavaScript 
 
+## This mini projects are inspired by Brad Traversy Media Courses
 
 | Project                                                     | Language                     | Links                                              |
 | ----------------------------------------------------------- | ---------------------------- | -------------------------------------------------- |
